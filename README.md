@@ -1,5 +1,7 @@
 # FinSight: Predictive Credit Risk Analytics & Dashboard
 
+![FinSight Dashboard](Screenshot%202026-06-15%20163433.png)
+
 ## 📌 Project Overview
 Financial institutions lose millions annually to credit defaults due to static, outdated risk assessment rules. **FinSight** is an end-to-end predictive analytics pipeline designed to identify high-risk credit customers before they default. 
 
